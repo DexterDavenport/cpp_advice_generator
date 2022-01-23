@@ -4,7 +4,7 @@ This is my first real attempt at a C++ code. I wanted to try and make a simple c
 
 This Software is basically an advice companion but with a twist. You can choose if you would like it to be encouraging, rude, or just undecisive. Use it when you want to have some positive encouragement for a task, or to talk you out of something that you know you shouldn't do. 
 
-A visual deminstration of the code is available [here](link here)
+A visual deminstration of the code is available [here](https://youtu.be/uqnhroqhw8k)
 
 # Development Environment
 
